@@ -1,2 +1,1 @@
-Hello Welcome to GIT Hub testing. 
-Hello World 
+Hello Welcome to GIT Hub testing
